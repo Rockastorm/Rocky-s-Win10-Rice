@@ -1,0 +1,114 @@
+{
+  "font": "JetBrain Mono",
+  "fontWeight": 400,
+  "currentTheme": "custom",
+  "tabTitle": "~",
+  "taskBackend": "local",
+  "todoistApiToken": "",
+  "googleTasksSignedIn": false,
+  "locationMode": "manual",
+  "latitude": 40.7127281,
+  "longitude": -74.0060152,
+  "showSeconds": true,
+  "timeFormat": "24hr",
+  "dateFormat": "mdy",
+  "tempUnit": "fahrenheit",
+  "speedUnit": "mph",
+  "forecastMode": "hourly",
+  "linksPerColumn": 3,
+  "linkTarget": "_self",
+  "linkHotkeys": false,
+  "linkHotkeyPosition": "right",
+  "linkIconMode": "arrow",
+  "links": [
+    {
+      "title": "youtube",
+      "url": "https://www.youtube.com/",
+      "icon": "",
+      "hotkey": ""
+    },
+    {
+      "title": "instagram",
+      "url": "https://instagram.com",
+      "icon": "",
+      "hotkey": ""
+    },
+    {
+      "title": "fmhy",
+      "url": "https://fmhy.net/privacy",
+      "icon": "",
+      "hotkey": ""
+    },
+    {
+      "title": "maps",
+      "url": "https://www.google.com/maps",
+      "icon": "",
+      "hotkey": ""
+    },
+    {
+      "title": "gmail",
+      "url": "https://mail.google.com",
+      "icon": "",
+      "hotkey": "g"
+    },
+    {
+      "title": "amazon",
+      "url": "https://amazon.com",
+      "icon": "amazon",
+      "hotkey": ""
+    },
+    {
+      "title": "chatgpt",
+      "url": "https://chatgpt.com/",
+      "icon": "",
+      "hotkey": "h"
+    },
+    {
+      "title": "docs",
+      "url": "https://docs.google.com",
+      "icon": "",
+      "hotkey": "o"
+    },
+    {
+      "title": "github",
+      "url": "https://github.com",
+      "icon": "",
+      "hotkey": "i"
+    },
+    {
+      "title": "reddit",
+      "url": "https://reddit.com",
+      "icon": "",
+      "hotkey": "r"
+    },
+    {
+      "title": "crunchyroll",
+      "url": "https://crunchyroll.com",
+      "icon": "",
+      "hotkey": ""
+    },
+    {
+      "title": "fontshare",
+      "url": "https://fontshare.com/",
+      "icon": "",
+      "hotkey": ""
+    }
+  ],
+  "customThemeColors": {
+    "bg1": "#0A0E14",
+    "bg2": "261B36",
+    "bg3": "#1f232f",
+    "txt1": "#DDCCFC",
+    "txt2": "#DDCCFC",
+    "txt3": "#9688AF",
+    "txt4": "#C6A3F2",
+    "txtErr": "#d9005c"
+  },
+  "pingUrl": "https://www.google.com/generate_204",
+  "customCSS": ".panel-wrapper:hover .panel {\n    border-color: #C6A3F2 !important;\n}",
+  "showClock": true,
+  "showStats": true,
+  "showWeather": true,
+  "showTasks": true,
+  "showLinks": true
+}
