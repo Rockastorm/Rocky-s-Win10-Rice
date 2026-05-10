@@ -1,0 +1,1 @@
+https://themes.ray.so/?version=1&name=Rocky&colors=%23060f1e%2C%230a0e14%2C%23ddccfc%2C%23c6a3f2%2C%236f3c89%2C%23ff425b%2C%23ff9217%2C%23ffc531%2C%2359d499%2C%2356c2ff%2C%238e55f1%2C%23cf2f98&appearance=dark&addToRaycast=
