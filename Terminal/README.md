@@ -1,4 +1,2 @@
 https://github.com/microsoft/terminal
-
-Foreground Color: #DDCCFC
-Background Color: #0A0E14
+https://github.com/lptstr/winfetch
